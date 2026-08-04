@@ -1,131 +1,141 @@
-<h1 align="center">Hi 👋, I'm Siddharth Mathura</h1>
-<h3 align="center">Full Stack Node.js Developer</h3>
+<h1 align="center">Siddharth Mathura</h1>
 
 <p align="center">
-Passionate about building secure, scalable, and maintainable web applications using modern backend technologies.
+  <strong>Full Stack Node.js Developer</strong>
 </p>
 
-  <a href="https://in.linkedin.com/in/siddharth-mathura">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="mailto:mathurasiddharth@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<p align="center">
+Building secure, scalable & production-ready web applications with Node.js.
 </p>
 
----
-
-# 👨‍💻 About Me
-
-- 💻 Full Stack Node.js Developer
-- 🚀 Passionate about Backend Development
-- 🔒 Interested in Web Security & Secure APIs
-- 🌱 Currently improving System Design & Backend Architecture
-- 📂 Building production-ready web applications
-
----
-
-# 🛠️ Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,html,css" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<p align="center">
+  <a href="YOUR_PORTFOLIO_URL">Portfolio</a> •
+  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
+  <a href="mailto:YOUR_EMAIL">Email</a>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+```bash
+$ whoami
+```
 
-### 🌐 Resume Portfolio Website
+I'm **Siddharth Mathura**, a Full Stack Node.js Developer who enjoys
+building secure backend systems, REST APIs and scalable web applications.
 
-A production-ready portfolio website built using **Node.js**, **Express.js**, **MongoDB**, **Mongoose**, and **EJS** with authentication, security middleware, SEO optimization, and an admin dashboard.
-
----
-
-### 👨‍💼 Employee Management REST API
-
-RESTful API with CRUD operations, validation, and MongoDB integration.
+I focus on writing clean, maintainable code while continuously improving
+my backend architecture and system design skills.
 
 ---
 
-### 🏏 Cricket REST API
+```bash
+$ pwd
+```
 
-REST API for cricket-related resources following REST principles and clean architecture.
+```text
+/home/siddharth/backend-developer
+```
 
 ---
 
-# 📊 GitHub Statistics
+```bash
+$ npm run tech-stack
+```
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,js,html,css,git,github,vscode,postman" />
 
 </p>
-
----
-
-# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true"/>
+<img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/EJS-8BC34A?style=flat-square"/>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+```bash
+$ ls projects/
+```
+
+```
+📁 Resume Portfolio Website
+📁 Employee Management REST API
+📁 Cricket REST API
+📁 Backend Security
+```
+
+---
+
+```bash
+$ cat portfolio/Resume-Portfolio.md
+```
+
+> Production-ready portfolio website built using
+>
+> Node.js • Express.js • MongoDB • Mongoose • EJS
+>
+> Features include:
+>
+> - Admin Dashboard
+> - Authentication
+> - Resume Downloads
+> - SEO
+> - Security
+> - Responsive UI
+
+---
+
+```bash
+$ git log --summary
+```
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SiddharthMathura&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthMathura&layout=compact&theme=transparent&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📫 Connect With Me
-
-<p align="left">
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-Visit-181717?style=for-the-badge"/>
-</a>
-
-</p>
-
----
+```bash
+$ git status
+```
 
 <p align="center">
-⭐ Thanks for visiting my profile! ⭐
+
+<img src="https://streak-stats.demolab.com?user=SiddharthMathura&theme=transparent&hide_border=true"/>
+
 </p>
+
+---
+
+```bash
+$ curl https://your-portfolio-url.com
+```
+
+```
+HTTP/1.1 200 OK
+
+Portfolio    ✓ Online
+Status       ✓ Available
+Location     India
+Role         Full Stack Node.js Developer
+```
+
+---
+
+```bash
+$ echo "Thanks for visiting!"
+```
+
+```text
+Thanks for stopping by 👋
+Have a great day!
+```
