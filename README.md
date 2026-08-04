@@ -9,8 +9,8 @@ Building secure, scalable & production-ready web applications with Node.js.
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="https://in.linkedin.com/in/siddharth-mathura">LinkedIn</a> •
+  <a href="mailto:mathuarasiddharth@gmail.com">Email</a>
 </p>
 
 ---
