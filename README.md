@@ -103,9 +103,7 @@ $ git status
 $ git log --snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/SiddharthMathura/SiddharthMathura/output/github-contribution-grid-snake.svg"/>
-
+  <img src="https://raw.githubusercontent.com/SiddharthMathura/SiddharthMathura/output/github-contribution-grid-snake.svg" />
 </p>
 
 ```bash
