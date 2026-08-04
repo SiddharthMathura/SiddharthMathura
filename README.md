@@ -103,6 +103,9 @@ $ git status
 ---
 
 ```bash
+$ git log --snake
+
+```bash
 $ echo "Thanks for visiting!"
 ```
 
