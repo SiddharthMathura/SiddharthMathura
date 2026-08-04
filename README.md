@@ -9,7 +9,6 @@ Building secure, scalable & production-ready web applications with Node.js.
 </p>
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a> •
   <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
   <a href="mailto:YOUR_EMAIL">Email</a>
 </p>
@@ -59,19 +58,6 @@ $ npm run tech-stack
 ---
 
 ```bash
-$ ls projects/
-```
-
-```
-📁 Resume Portfolio Website
-📁 Employee Management REST API
-📁 Cricket REST API
-📁 Backend Security
-```
-
----
-
-```bash
 $ cat portfolio/Resume-Portfolio.md
 ```
 
@@ -113,21 +99,6 @@ $ git status
 <img src="https://streak-stats.demolab.com?user=SiddharthMathura&theme=transparent&hide_border=true"/>
 
 </p>
-
----
-
-```bash
-$ curl https://your-portfolio-url.com
-```
-
-```
-HTTP/1.1 200 OK
-
-Portfolio    ✓ Online
-Status       ✓ Available
-Location     India
-Role         Full Stack Node.js Developer
-```
 
 ---
 
