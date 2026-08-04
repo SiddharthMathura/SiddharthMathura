@@ -1,7 +1,7 @@
 <h1 align="center">Siddharth Mathura</h1>
 
 <p align="center">
-  <strong>Full Stack Node.js Developer</strong>
+  <strong>Full Stack Developer</strong>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@ Building secure, scalable & production-ready web applications with Node.js.
 $ whoami
 ```
 
-I'm **Siddharth Mathura**, a Full Stack Node.js Developer who enjoys
+I'm **Siddharth Mathura**, a Full Stack Developer who enjoys
 building secure backend systems, REST APIs and scalable web applications.
 
 I focus on writing clean, maintainable code while continuously improving
