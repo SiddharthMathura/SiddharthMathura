@@ -1,80 +1,131 @@
-# Hi there, I'm Siddharth Mathura 👋
-
-### Full Stack Node.js Developer
-
-I'm passionate about building secure, scalable, and maintainable web applications using modern backend technologies.
-
----
-
-## 🚀 About Me
-
-- 💻 Full Stack Node.js Developer
-- 🌱 Currently improving my backend and system design skills
-- 🔒 Interested in Backend Development & Web Security
-- 📫 Portfolio: (Coming Soon)
-- 💼 Open to Software Developer opportunities
-
----
-
-## 🛠️ Tech Stack
-
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="Node.js" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45" alt="Express.js" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="MongoDB" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" height="45" alt="Mongoose" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-- 🌐 Resume Portfolio Website
-- 👨‍💼 Employee Management REST API
-- 🏏 Cricket REST API
-- 🔐 Backend Security
-
----
-
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
+<h1 align="center">Hi 👋, I'm Siddharth Mathura</h1>
+<h3 align="center">Full Stack Node.js Developer</h3>
 
 <p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true"
-  />
+Passionate about building secure, scalable, and maintainable web applications using modern backend technologies.
+</p>
 
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true"
-  />
+  <a href="https://in.linkedin.com/in/siddharth-mathura">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:mathurasiddharth@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-Thanks for visiting my profile! ⭐
+# 👨‍💻 About Me
+
+- 💻 Full Stack Node.js Developer
+- 🚀 Passionate about Backend Development
+- 🔒 Interested in Web Security & Secure APIs
+- 🌱 Currently improving System Design & Backend Architecture
+- 📂 Building production-ready web applications
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,html,css" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🌐 Resume Portfolio Website
+
+A production-ready portfolio website built using **Node.js**, **Express.js**, **MongoDB**, **Mongoose**, and **EJS** with authentication, security middleware, SEO optimization, and an admin dashboard.
+
+---
+
+### 👨‍💼 Employee Management REST API
+
+RESTful API with CRUD operations, validation, and MongoDB integration.
+
+---
+
+### 🏏 Cricket REST API
+
+REST API for cricket-related resources following REST principles and clean architecture.
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-Visit-181717?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! ⭐
+</p>
