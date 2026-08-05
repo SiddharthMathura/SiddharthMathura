@@ -11,6 +11,7 @@ Building secure, scalable & production-ready web applications with Node.js.
 <p align="center">
   <a href="https://in.linkedin.com/in/siddharth-mathura">LinkedIn</a> •
   <a href="mailto:mathuarasiddharth@gmail.com">Email</a>
+  <a href="https://www.instagram.com/siddharthmathura">Instagram</a>
 </p>
 
 ---
