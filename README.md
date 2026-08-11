@@ -92,18 +92,6 @@ $ git log --summary
 ---
 
 ```bash
-$ git status
-```
-
-<p align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=SiddharthMathura&theme=transparent&hide_border=true"/>
-
-</p>
-
----
-
-```bash
 $ git log --snake
 ```
 
