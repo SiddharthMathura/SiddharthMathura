@@ -92,6 +92,18 @@ $ git log --summary
 ---
 
 ```bash
+$ git log --status
+```
+
+<p align="center">
+  
+<img height="170" src="https://github-readme-streak-stats-ivory-gamma.vercel.app/?user=SiddharthMathura&theme=dark"/>
+
+</p>
+
+---
+
+```bash
 $ git log --snake
 ```
 
