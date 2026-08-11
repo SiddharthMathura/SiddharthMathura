@@ -85,7 +85,7 @@ $ git log --summary
 
 <img height="170" src="https://github-stats-extended-frontend-five-orpin.vercel.app/api?username=SiddharthMathura&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthMathura&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-stats-extended-frontend-five-orpin.vercel.app/api/top-langs/?username=SiddharthMathura&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -97,7 +97,7 @@ $ git status
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=SiddharthMathura&theme=transparent&hide_border=true"/>
+<img src="https://github-stats-extended-frontend-five-orpin.vercel.app?user=SiddharthMathura&theme=transparent&hide_border=true"/>
 
 </p>
 
