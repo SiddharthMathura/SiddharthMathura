@@ -97,7 +97,7 @@ $ git status
 
 <p align="center">
 
-<img src="https://https://github-stats-extended.vercel.app/?user=SiddharthMathura&theme=transparent&hide_border=true"/>
+<img src="https://github-stats-extended.vercel.app/?user=SiddharthMathura&theme=transparent&hide_border=true"/>
 
 </p>
 
