@@ -97,7 +97,7 @@ $ git log --status
 
 <p align="center">
   
-<img height="170" src="https://github-readme-streak-stats-ivory-gamma.vercel.app/?user=SiddharthMathura&theme=dark"/>
+<img height="170" src="https://github-readme-streak-stats-ivory-gamma.vercel.app/?user=SiddharthMathura&theme=tokyonight&hide_border=true"/>
 
 </p>
 
