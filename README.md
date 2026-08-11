@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Building secure, scalable & production-ready web applications with Node.js.
+  Building secure, scalable & production-ready web applications with Node.js.
 </p>
 
 <p align="center">
@@ -68,12 +68,12 @@ $ cat portfolio/Resume-Portfolio.md
 >
 > Features include:
 >
-> - Admin Dashboard
-> - Authentication
-> - Resume Downloads
-> - SEO
-> - Security
-> - Responsive UI
+> * Admin Dashboard
+> * Authentication
+> * Resume Downloads
+> * SEO
+> * Security
+> * Responsive UI
 
 ---
 
@@ -101,16 +101,20 @@ $ git status
 
 </p>
 
+---
+
 ```bash
 $ git log --snake
 ```
 
 <p align="center">
-   <img 
+  <img 
     src="https://raw.githubusercontent.com/SiddharthMathura/SiddharthMathura/gh-pages/github-contribution-grid-snake.svg"
     width="900"
   />
 </p>
+
+---
 
 ```bash
 $ echo "Thanks for visiting!"
