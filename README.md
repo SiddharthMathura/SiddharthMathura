@@ -83,7 +83,7 @@ $ git log --summary
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SiddharthMathura&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="github-stats-extended-frontend-five-orpin.vercel.app/api?username=SiddharthMathura&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthMathura&layout=compact&theme=tokyonight&hide_border=true"/>
 
