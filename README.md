@@ -59,25 +59,6 @@ $ npm run tech-stack
 ---
 
 ```bash
-$ cat portfolio/Resume-Portfolio.md
-```
-
-> Production-ready portfolio website built using
->
-> Node.js • Express.js • MongoDB • Mongoose • EJS
->
-> Features include:
->
-> * Admin Dashboard
-> * Authentication
-> * Resume Downloads
-> * SEO
-> * Security
-> * Responsive UI
-
----
-
-```bash
 $ git log --summary
 ```
 
